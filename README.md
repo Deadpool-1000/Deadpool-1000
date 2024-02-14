@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deadpool_coder" target="blank"><img src="https://img.shields.io/twitter/follow/deadpool_coder?logo=twitter&style=for-the-badge" alt="deadpool_coder" /></a> </p>
 
-- 🌱 I’m currently learning **GraphQL , Machine Learning , Development in Python**
+- 🌱 I’m currently learning **Python, flask and fast-API**
 
 - 👨‍💻 All of my projects are available at [https://deadpool-1000.github.io/](https://deadpool-1000.github.io/)
 
